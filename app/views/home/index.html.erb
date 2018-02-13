@@ -1,0 +1,32 @@
+<ul> 
+	<% if moussaillon_signed_in? %> 
+
+	<li>
+		<%= link_to "Sign Out", destroy_moussaillon_session_path, method: :delete %>
+	</li>
+
+	<li>
+		<%= link_to "Créer un gossip" %>
+	</li>
+
+	<% else %>
+	<li>
+		<%= link_to "Sign in", new_moussaillon_session_path %>
+	</li>
+
+	<li>
+		<%= link_to "Sign up", new_moussaillon_registration_path %>
+	</li>
+
+	<% end %> 
+
+</ul> 
+
+<!--
+
+
+-->
+
+
+
+
