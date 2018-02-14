@@ -17,6 +17,8 @@ Concernant le header, j'ai un peu galéré, il y a bien les liens demandés mêm
 
 Voici le lien du site web déployé sur Heroku : 
 
+J'ai bien installé rspec, il y a un dossier spec dans lequel les tests sont possibles.
+
 
 Bonne correction et bon courage pour la suite cher moussaillon, 
 
