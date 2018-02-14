@@ -16,9 +16,9 @@ Concernant le header, j'ai un peu galéré, il y a bien les liens demandés mêm
 
 **+** Il y a bien le code d'invitation : **GOSSIP_2017** pour s'inscrire. 
 
-Voici le lien du site web déployé sur Heroku : 
+Voici le lien du site web déployé sur Heroku : [Site déployé sur Heroku](https://appthp.herokuapp.com)
 
-J'ai bien installé rspec, il y a un dossier spec dans lequel les tests sont possibles.
+J'ai bien installé rspec, il y a un dossier spec dans lequel les tests sont possibles. Vous pourrez d'ailleurs retrouver les miens à l'intérieur dans **/spec/models/moussaillon_spec.rb**
 
 
 Bonne correction et bon courage pour la suite cher moussaillon, 
