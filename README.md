@@ -14,6 +14,7 @@ Les deux tables sont liées par un *has_many* et un *belongs_to*. Ainsi, un mous
 
 Concernant le header, j'ai un peu galéré, il y a bien les liens demandés même si ce n'est pas magnifique. 
 
+**+** Il y a bien le code d'invitation : **GOSSIP_2017** pour s'inscrire. 
 
 Voici le lien du site web déployé sur Heroku : 
 
