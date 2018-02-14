@@ -18,7 +18,7 @@ Concernant le header, j'ai un peu galéré, il y a bien les liens demandés mêm
 
 Voici le lien du site web déployé sur Heroku : [Site déployé sur Heroku](https://appthp.herokuapp.com)
 
-J'ai bien installé rspec, il y a un dossier spec dans lequel les tests sont possibles. Vous pourrez d'ailleurs retrouver les miens à l'intérieur dans **/spec/models/moussaillon_spec.rb**
+J'ai bien installé rspec, il y a un dossier spec dans lequel les tests sont possibles. Vous pourrez d'ailleurs retrouver les miens à l'intérieur dans **/spec/models/gossip_spec.rb** et **/spec/models/gossip_spec.rb**.
 
 
 Bonne correction et bon courage pour la suite cher moussaillon, 

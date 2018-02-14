@@ -16,3 +16,5 @@ RSpec.describe "gossips/edit", type: :view do
     end
   end
 end
+
+
